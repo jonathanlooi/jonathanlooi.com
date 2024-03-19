@@ -1,0 +1,3 @@
+[submodule "themes/simple-modern"]
+	path = themes/simple-modern
+	url = https://github.com/jonathanlooi/simple-modern.git

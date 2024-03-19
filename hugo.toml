@@ -1,0 +1,4 @@
+baseURL = 'jonathanlooi.com'
+languageCode = 'en-us'
+title = 'Jonathan Looi'
+theme = 'simple-modern'
